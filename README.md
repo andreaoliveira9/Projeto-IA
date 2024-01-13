@@ -1,7 +1,7 @@
 # ia-digdug
 DigDug clone for AI teaching
 
-Nota: 16,4
+Nota: 16.4
 
 ## How to install
 
